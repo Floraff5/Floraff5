@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Floraff5
-- 👀 I’m interested in economics, finance and astronomy.
+- 👀 I’m interested in economics, business analytics and finance.
 - 🌱 I’m currently learning statistics and data analysis.
 
 <!---
